@@ -1,0 +1,32 @@
+*{margin: 0px;}
+.padre
+{
+    background-color: cadetblue;
+    padding: 20px;
+    width: 800px;
+}
+.hijo
+{
+    background-color: aqua;
+    padding: 20px;
+}
+.nieto
+{
+    background-color: azure;
+    padding:20px;
+}
+.bisnieto{
+    background-color: rgb(209, 231, 112);
+    padding: 15px;
+    margin: 15px;
+    border-style: dotted;
+}
+.bisnieto2{
+    background-color: darkcyan;
+    padding: 10px;
+    border-style: dotted;
+}
+.bisnieto3{
+    background-color: rgb(227, 178, 79);
+    padding: 3px;
+}
